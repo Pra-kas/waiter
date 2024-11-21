@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "71995776402",
+    "firebase_url": "https://brewberrycafe-12a1f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "brewberrycafe-12a1f",
+    "storage_bucket": "brewberrycafe-12a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71995776402:android:4338112bd863f963c7754b",
+        "android_client_info": {
+          "package_name": "com.example.waiter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCz4cD6ITBqhj_xW5SYPHk15UaPgMrGmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
